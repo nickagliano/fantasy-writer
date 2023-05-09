@@ -14,6 +14,13 @@ You should also take a look at the storytelling _style_ section and make it more
 
 Other than that, let the imagination flow.
 
+## Inputs and Commands
+
+- It will ask you if you want to hear a story, you need to say something along the lines of "yes"
+- It will ask for your fantasy universe's name, as well as it's "X Factor". The X Factor is just whatever makes it special. I.e., in Avatar: The Last Airbender, it's that people can bend elements (and then you'd want to describe it a bit more)
+- Note that instead of using these inputs, you could edit the prompt to include those values directly in the prompt
+- After a story, if you want it tweaked you can start the prompt with `/revise` followed by the changes you'd like
+
 ## Credit
 This prompt was influenced by some more structured prompts across the community, but most heavily by https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/.
 
