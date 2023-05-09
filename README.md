@@ -15,4 +15,6 @@ You should also take a look at the storytelling _style_ section and make it more
 Other than that, let the imagination flow.
 
 ## Credit
+This prompt was influenced by some more structured prompts across the community, but most heavily by https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/.
+
 If you like the prompt, or want to credit me anywhere, get in contact on Twitter @nickagliano, or email me. My email is on my personal site, https://nickagliano.com
