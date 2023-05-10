@@ -21,6 +21,12 @@ Other than that, let the imagination flow.
 - Note that instead of using these inputs, you could edit the prompt to include those values directly in the prompt
 - After a story, if you want it tweaked you can start the prompt with `/revise` followed by the changes you'd like
 
+## Tips and Tricks
+
+- The start of the conversation will not be as good, but as you revise and correct, the stories will get better
+- There's a sweet spot, where the AI is writing as you intend it to. After that sweet spot, it starts to taper off, and you might have to remind it some of your style
+  - I find myself starting fresh in a new conversation after ~25 prompts
+
 ## Credit
 This prompt was influenced by some more structured prompts across the community, but most heavily by https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor/.
 
