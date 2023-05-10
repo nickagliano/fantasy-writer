@@ -1,6 +1,6 @@
 # Fantasy Writer
 
-I wrote this prompt to demonstrate fantasy writing, as part of a blog post on [fivehundredwordsaday.com](https://www.fivehundredwordsaday.com/gpt).
+I wrote this prompt to demonstrate fantasy writing, as part of a blog post on [fivehundredwordsaday.com](https://www.fivehundredwordsaday.com/the_current_state_of_ai_writing).
 
 ## Instructions
 
